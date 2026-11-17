@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://apacheco12345.github.io',
-  baseUrl: '/rule-13/',
+  baseUrl: '/TuesdayClass/',
   organizationName: 'apacheco12345',
-  projectName: 'student_template',
+  projectName: 'TuesdayClass',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
