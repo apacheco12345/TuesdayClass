@@ -7,9 +7,9 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
+  url: 'https://apacheco12345.github.io',
+  baseUrl: '/rule-13/',
+  organizationName: 'apacheco12345',
   projectName: 'student_template',
   trailingSlash: false,
   onBrokenLinks: 'throw',
