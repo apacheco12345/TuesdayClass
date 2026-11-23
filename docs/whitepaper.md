@@ -49,9 +49,14 @@ Today, most research agrees on three things.
 
 Researchers point to two main reasons for this gap:
 
-- **Not enough information.** It's possible that students aren't using the resources available to them because there isn't much information about them, or because the information is hard to find. Another UC Davis survey found that many students weren't sure if they qualified for CalFresh, and students who knew more about it were more likely to use it [6]. The rules really are confusing. College students between 18 and 49 who are enrolled at least half-time have to meet a specific exemption, like getting a Cal Grant A or B or being eligible for work study, before they can qualify [7].
+:::info
+**Not enough information.** It's possible that students aren't using the resources available to them because there isn't much information about them, or because the information is hard to find. Another UC Davis survey found that many students weren't sure if they qualified for CalFresh, and students who knew more about it were more likely to use it [6]. The rules really are confusing. College students between 18 and 49 who are enrolled at least half-time have to meet a specific exemption, like getting a Cal Grant A or B or being eligible for work study, before they can qualify [7]. 
+:::
 
+
+:::info
 - **Stigma.** It's also possible that people don't use the resources because they're afraid of being judged or are embarrassed about needing help. In interviews with 49 students in the Inland Empire, researchers found that students didn't want to use campus resources or talk about their food insecurity, even when they needed help [8].
+:::
 
 The good news is that outreach seems to work. A survey of 1,513 food pantry users across the UC campuses found that most of them heard about the food pantry from a friend, but the students who heard about it from the Pantry or Basic Needs staff ended up using it more often [9]. This makes sense, since staff can explain how these resources work and answer questions right away. More advertising and more chances for students to talk to staff could help increase how many students use the resources.
 
