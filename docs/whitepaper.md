@@ -19,7 +19,7 @@ description: "A white paper on closing the gap between awareness and use of food
 
 Being a college student is one of the first times young adults have to live on their own and provide for themselves all while being a full-time student. This can cause a lot of stress as a lot of students don't have time to uphold a job and therefore rely on financial aid or help from family to get them through school. In addition, the cost of living is expensive in Isla Vista and can cause food budgets to be cut when money is already being spent towards rent. These factors can contribute to food insecurity issues across college campuses throughout California.
 
-Food insecurity is defined as having uncertainty about, or limited access to food. This can look like worrying about whether your groceries will last until your next paycheck or skipping meals because there is not enough money to pay for more groceries. It would make sense that food insecurity rates are high on college campuses because many students don't have the financial stability. According to the University of California's Basic Needs Annual Report of 2025, 48% of undergraduates studied at different UCs experienced food insecurity [1]. While this number is high, the UC Regents have made goals to decrease that number in half through bettering their on-campus resources.
+Food insecurity is defined as having uncertainty about, or limited access to food. This can look like worrying about whether your groceries will last until your next paycheck or skipping meals because there is not enough money to pay for more groceries. It would make sense that food insecurity rates are high on college campuses because many students don't have the financial stability. According to the University of California's Basic Needs Annual Report of 2025, 48% of undergraduates studied at different UCs experienced food insecurity [[1]](#ref-1). While this number is high, the UC Regents have made goals to decrease that number in half through bettering their on-campus resources.
 
 UC Santa Barbara (UCSB) is one example of a college campus that already has a lot of available resources for undergraduate students fighting this issue. There is the Associated Students (A.S.) Food Bank, the Miramar Food Pantry, campus snack stations, meal swipe donations, and the Food Security and Basic Needs Advising Center, that can help students with getting the resources that they need including CalFresh and Food, Nutrition, and Basic Skills classes. The issue isn't that there aren't any resources, the issue is that there is not enough awareness of these resources.
 
@@ -33,7 +33,7 @@ From these results, it was determined that the best solution would be to increas
 
 Researchers have studied food insecurity in U.S households for a long time, but they only started looking closely at college students in the last fifteen years or so. As the financial challenges of attending college became more recognized, universities began developing food assistance programs to support students who struggled to afford consistent access to food.
 
-In California, the University of California (UC) schools took the lead in addressing food insecurity across their campuses. In 2015, a survey of 8,705 students across all 10 UC campuses, including UCSB, found that 40% were food insecure [2]. UCSB was actually ahead of this. Associated Students opened the campus's first food bank in 2011 after students told advisors they couldn't afford food [3]. Since then, universities have continued expanding food assistance programs, including campus food pantries, meal donation programs, and direct CalFresh support.
+In California, the University of California (UC) schools took the lead in addressing food insecurity across their campuses. In 2015, a survey of 8,705 students across all 10 UC campuses, including UCSB, found that 40% were food insecure [[2]](#ref-2). UCSB was actually ahead of this. Associated Students opened the campus's first food bank in 2011 after students told advisors they couldn't afford food [[3]](#ref-3). Since then, universities have continued expanding food assistance programs, including campus food pantries, meal donation programs, and direct CalFresh support.
 
 However, when the COVID-19 pandemic hit, it highlighted the ongoing issues as more students faced financial instability and increased food insecurity. Despite these efforts, food insecurity still remains a concern across all college campuses including UCSB. This raises the concern about if existing resources are reaching the students who need them the most, highlighting the importance of not only providing food assistance but also ensuring students are aware of and able to access the resources available to them.
 
@@ -41,30 +41,30 @@ However, when the COVID-19 pandemic hit, it highlighted the ongoing issues as mo
 
 Today, most research agrees on three things.
 
-1. **Food Insecurity is common.** A 2023 review found that rates on college campuses range from 19% to 56%, which is often about four times the national average. The same review said that about 44% of UC students experience food insecurity [4].
+1. **Food Insecurity is common.** A 2023 review found that rates on college campuses range from 19% to 56%, which is often about four times the national average. The same review said that about 44% of UC students experience food insecurity [[4]](#ref-4).
 
-2. **It hurts students' grades and health.** The UC study of 8,705 students linked food insecurity to lower GPAs and worse mental health [2]. It's hard to focus in class or study for a midterm when you're hungry or stressed about money.
+2. **It hurts students' grades and health.** The UC study of 8,705 students linked food insecurity to lower GPAs and worse mental health [[2]](#ref-2). It's hard to focus in class or study for a midterm when you're hungry or stressed about money.
 
-3. **Students don't use the resources that exist.** This is the part our project focuses on. At UC Davis, transfer students were 84% more likely to be food insecure but 39% less likely to use campus food resources [5].
+3. **Students don't use the resources that exist.** This is the part our project focuses on. At UC Davis, transfer students were 84% more likely to be food insecure but 39% less likely to use campus food resources [[5]](#ref-5).
 
 Researchers point to two main reasons for this gap:
 
-:::info
-**Not enough information.** It's possible that students aren't using the resources available to them because there isn't much information about them, or because the information is hard to find. Another UC Davis survey found that many students weren't sure if they qualified for CalFresh, and students who knew more about it were more likely to use it [6]. The rules really are confusing. College students between 18 and 49 who are enrolled at least half-time have to meet a specific exemption, like getting a Cal Grant A or B or being eligible for work study, before they can qualify [7]. 
+:::info[Not enough information]
+It's possible that students aren't using the resources available to them because there isn't much information about them, or because the information is hard to find. Another UC Davis survey found that many students weren't sure if they qualified for CalFresh, and students who knew more about it were more likely to use it [[6]](#ref-6). The rules really are confusing. College students between 18 and 49 who are enrolled at least half-time have to meet a specific exemption, like getting a Cal Grant A or B or being eligible for work study, before they can qualify [[7]](#ref-7). 
 :::
 
 
-:::info
-- **Stigma.** It's also possible that people don't use the resources because they're afraid of being judged or are embarrassed about needing help. In interviews with 49 students in the Inland Empire, researchers found that students didn't want to use campus resources or talk about their food insecurity, even when they needed help [8].
+:::info[Stigma]
+It's also possible that people don't use the resources because they're afraid of being judged or are embarrassed about needing help. In interviews with 49 students in the Inland Empire, researchers found that students didn't want to use campus resources or talk about their food insecurity, even when they needed help [[8]](#ref-8).
 :::
 
-The good news is that outreach seems to work. A survey of 1,513 food pantry users across the UC campuses found that most of them heard about the food pantry from a friend, but the students who heard about it from the Pantry or Basic Needs staff ended up using it more often [9]. This makes sense, since staff can explain how these resources work and answer questions right away. More advertising and more chances for students to talk to staff could help increase how many students use the resources.
+The good news is that outreach seems to work. A survey of 1,513 food pantry users across the UC campuses found that most of them heard about the food pantry from a friend, but the students who heard about it from the Pantry or Basic Needs staff ended up using it more often [[9]](#ref-9). This makes sense, since staff can explain how these resources work and answer questions right away. More advertising and more chances for students to talk to staff could help increase how many students use the resources.
 
 ### 2.3 What this looks like at UCSB {#what-this-looks-like-at-ucsb}
 
-Since the implementation of the A.S. Campus food bank at UCSB in 2011, rates of food insecurity have still remained high. According to an article from the Daily Nexus, food insecurity among college students rose quickly after the Covid-19 pandemic, and the A.S. Food Bank saw a big increase in clients after COVID [10]. In the 2022 UC Undergraduate Experience Survey, 24% of UCSB students had very low food security and another 19% had low food security, so 43% total [11]. A.S. Basic Needs did their own survey in 2023 and got the exact same number, 43% of undergrads [10], which means almost half of the students on our campus are dealing with this.
+Since the implementation of the A.S. Campus food bank at UCSB in 2011, rates of food insecurity have still remained high. According to an article from the Daily Nexus, food insecurity among college students rose quickly after the Covid-19 pandemic, and the A.S. Food Bank saw a big increase in clients after COVID [[10]](#ref-10). In the 2022 UC Undergraduate Experience Survey, 24% of UCSB students had very low food security and another 19% had low food security, so 43% total [[11]](#ref-11). A.S. Basic Needs did their own survey in 2023 and got the exact same number, 43% of undergrads [[10]](#ref-10), which means almost half of the students on our campus are dealing with this.
 
-In the 2024 Daily Nexus article, Crystal Bach, the leader of the A.S. food bank at the time, mentions increasing funding and expanding their resources to groups who aren't on campus through a mobile food pantry that goes to Isla Vista and other parts of campus [10]. We thought this was a realistic and feasible idea that could increase the number of students using the Food Bank. Since her plan was about extending outreach, we took parts of it and worked them into our own proposed solution.
+In the 2024 Daily Nexus article, Crystal Bach, the leader of the A.S. food bank at the time, mentions increasing funding and expanding their resources to groups who aren't on campus through a mobile food pantry that goes to Isla Vista and other parts of campus [[10]](#ref-10). We thought this was a realistic and feasible idea that could increase the number of students using the Food Bank. Since her plan was about extending outreach, we took parts of it and worked them into our own proposed solution.
 
 ## 3. Our Study {#our-study}
 
@@ -129,7 +129,7 @@ Our main recommended solution is to expand existing food resource outreach throu
 
 ### 4.1 Pop-up Events {#pop-up-events}
 
-Pop-up events directly address the time and location barriers many students face. Instead of asking students to go out of their way to visit a pantry or office, these events would bring food and information directly to the locations students already frequent. This matters most for students who are struggling with food but not using the resources, which based on 75% of our responses. Many of them named timing and location as the reason, and a table they walk past between classes takes away any extra trips. Similar approaches have been implemented at other California universities. University of California, Irvine (UCI), Basic Needs Center operates both a traditional food pantry and mobile food pantry that brings groceries closer to student residential communities. UCI rotates its mobile food pantry that brings groceries closer to students residentials [12]. This approach allows students to access food assistance without having to travel to the main pantry.
+Pop-up events directly address the time and location barriers many students face. Instead of asking students to go out of their way to visit a pantry or office, these events would bring food and information directly to the locations students already frequent. This matters most for students who are struggling with food but not using the resources, which based on 75% of our responses. Many of them named timing and location as the reason, and a table they walk past between classes takes away any extra trips. Similar approaches have been implemented at other California universities. University of California, Irvine (UCI), Basic Needs Center operates both a traditional food pantry and mobile food pantry that brings groceries closer to student residential communities. UCI rotates its mobile food pantry that brings groceries closer to students residentials [[12]](#ref-12). This approach allows students to access food assistance without having to travel to the main pantry.
 
 Our approach would be to establish regular tabling events near the Arbor and other highly populated areas on campus. Since these locations receive significant student traffic throughout the day, they would provide an effective opportunity to introduce students to available food resources. These tables could offer free produce, snacks, and grab-and-go food while distributing flyers with QR codes that direct students to a centralized page listing UCSB's food assistance programs. The information could include the A.S. Food Bank, campus food pantries, the A.S. Food Bank Vending Machine, and CalFresh application assistance.
 
@@ -139,7 +139,7 @@ Furthermore, representatives from the Basic Needs Office could attend these even
 
 In addition to campus tabling, farmers market-style events could be introduced to improve food accessibility for students living in Isla Vista. Since a large portion of UCSB's undergraduate population lives in Isla Vista, also holding events within the community could make free food resources available to students who face any time and location barriers.
 
-UCSB can collaborate with local vendors and the Goleta Farmers Market at Camino Real Marketplace, which already accepts EBT and participates in the Market Match program [13]. Market Match allows eligible Calfresh participants to exchange their EBT balance for funds to purchase fresh fruits and vegetables at local farmers markets. At the Goleta and Santa Barbara Farmers Markets, eligible participants can receive up to an additional $10 in matching funds for fresh produce and other products [14].
+UCSB can collaborate with local vendors and the Goleta Farmers Market at Camino Real Marketplace, which already accepts EBT and participates in the Market Match program [[13]](#ref-13). Market Match allows eligible Calfresh participants to exchange their EBT balance for funds to purchase fresh fruits and vegetables at local farmers markets. At the Goleta and Santa Barbara Farmers Markets, eligible participants can receive up to an additional $10 in matching funds for fresh produce and other products [[14]](#ref-14).
 
 UCSB could invite vendors to organize monthly farmers market-style events in Isla Vista. These events could also include an informational table where students can learn how to use EBT and access Market Match. This would provide students with more opportunities to access fresh produce while introducing them to food assistance programs that they may not be familiar with.
 
@@ -147,7 +147,7 @@ UCSB could invite vendors to organize monthly farmers market-style events in Isl
 
 Beyond just providing free food and information for pop-up events, UCSB could introduce additional events that encourage students to make better use of existing food resources.
 
-Cooking demonstrations could be organized in collaboration with dining hall chefs or other campus food services. These demonstrations could focus on preparing simple, affordable meals using ingredients that students can access through food assistance programs. This helps students who worry about their groceries running out, since they can learn how to make the most of what they will be able to get from the food bank or pantries. At UC Berkeley, students who took a nutrition class with a hands-on teaching kitchen had less food insecurity and less stress afterwards [15]. Cooking lessons could be held at the campus pop-up events as well as near the food bank and food pantry to make it easy for students to pick up groceries and learn new recipes in one place.
+Cooking demonstrations could be organized in collaboration with dining hall chefs or other campus food services. These demonstrations could focus on preparing simple, affordable meals using ingredients that students can access through food assistance programs. This helps students who worry about their groceries running out, since they can learn how to make the most of what they will be able to get from the food bank or pantries. At UC Berkeley, students who took a nutrition class with a hands-on teaching kitchen had less food insecurity and less stress afterwards [[15]](#ref-15). Cooking lessons could be held at the campus pop-up events as well as near the food bank and food pantry to make it easy for students to pick up groceries and learn new recipes in one place.
 
 ## 5. How it would work {#how-it-would-work}
 
@@ -169,7 +169,7 @@ To see if the events are actually working, UCSB could keep track of how many stu
 
 ### 5.5 Cost {#cost}
 
-Since this plan mostly uses staff and food UCSB already has, the main new costs would be in advertising. Things like printing flyers, event supplies, and extra food for the tables. The A.S. Food Bank's budget for 2024-2025 was $697,631, and 85% of it comes from student fees [10], so a small part of that budget or a small grant could pay for a trial run. The UC Office of the President has also paid for similar projects at other campuses, like UC Irvine's mobile pantry [12].
+Since this plan mostly uses staff and food UCSB already has, the main new costs would be in advertising. Things like printing flyers, event supplies, and extra food for the tables. The A.S. Food Bank's budget for 2024-2025 was $697,631, and 85% of it comes from student fees [[10]](#ref-10), so a small part of that budget or a small grant could pay for a trial run. The UC Office of the President has also paid for similar projects at other campuses, like UC Irvine's mobile pantry [[12]](#ref-12).
 
 ## 6. Conclusion {#conclusion}
 
@@ -185,34 +185,34 @@ Moving forward, by making resources more visible, convenient, and approachable, 
 
 <div>
 
-[1] University of California Office of the President, "Basic Needs Annual Report to the Regents of the University of California," Oakland, CA, USA, Mar. 2025. [Online]. Available: https://regents.universityofcalifornia.edu/regmeet/mar25/b3attach.pdf
+<a id="ref-1"></a>[1] University of California Office of the President, "Basic Needs Annual Report to the Regents of the University of California," Oakland, CA, USA, Mar. 2025. [Online]. Available: https://regents.universityofcalifornia.edu/regmeet/mar25/b3attach.pdf
 
-[2] S. M. Martinez, E. A. Frongillo, C. Leung, and L. Ritchie, "No food for thought: Food insecurity is related to poor mental health and lower academic performance among students in California's public university system," Journal of Health Psychology, vol. 25, no. 12, pp. 1930–1939, Jun. 2018, doi: 10.1177/1359105318783028.
+<a id="ref-2"></a>[2] S. M. Martinez, E. A. Frongillo, C. Leung, and L. Ritchie, "No food for thought: Food insecurity is related to poor mental health and lower academic performance among students in California's public university system," Journal of Health Psychology, vol. 25, no. 12, pp. 1930–1939, Jun. 2018, doi: 10.1177/1359105318783028.
 
-[3] G. Foulsham, "UCSB's Associated Students to launch campus's first food bank," The UCSB Current, Apr. 13, 2011. [Online]. Available: https://news.ucsb.edu/2011/013022/ucsbs-associated-students-launch-campuss-first-food-bank
+<a id="ref-3"></a>[3] G. Foulsham, "UCSB's Associated Students to launch campus's first food bank," The UCSB Current, Apr. 13, 2011. [Online]. Available: https://news.ucsb.edu/2011/013022/ucsbs-associated-students-launch-campuss-first-food-bank
 
-[4] B. M. Loofbourrow and R. E. Scherr, "Food insecurity in higher education: A contemporary review of impacts and explorations of solutions," Int. J. Environ. Res. Public Health, vol. 20, no. 10, Art. no. 5884, May 2023, doi: 10.3390/ijerph20105884.
+<a id="ref-4"></a>[4] B. M. Loofbourrow and R. E. Scherr, "Food insecurity in higher education: A contemporary review of impacts and explorations of solutions," Int. J. Environ. Res. Public Health, vol. 20, no. 10, Art. no. 5884, May 2023, doi: 10.3390/ijerph20105884.
 
-[5] Z. Tanner, B. Loofbourrow, G. Chodur, L. Kemp, and R. Scherr, "Food insecurity and utilization of campus food resources differ by demographic and academic group," Journal of Agriculture Food Systems and Community Development, vol. 12, no. 2, pp. 63–78, Mar. 2023, doi: 10.5304/jafscd.2023.122.018.
+<a id="ref-5"></a>[5] Z. Tanner, B. Loofbourrow, G. Chodur, L. Kemp, and R. Scherr, "Food insecurity and utilization of campus food resources differ by demographic and academic group," Journal of Agriculture Food Systems and Community Development, vol. 12, no. 2, pp. 63–78, Mar. 2023, doi: 10.5304/jafscd.2023.122.018.
 
-[6] B. M. Loofbourrow, A. M. Jones, G. M. Chodur, S. M. Martinez, L. C. Kemp, and R. E. Scherr, "Evaluating knowledge, attitudes, and practices regarding CalFresh participation in university students," Nutrients, vol. 15, no. 1, Art. no. 192, 2023, doi: 10.3390/nu15010192.
+<a id="ref-6"></a>[6] B. M. Loofbourrow, A. M. Jones, G. M. Chodur, S. M. Martinez, L. C. Kemp, and R. E. Scherr, "Evaluating knowledge, attitudes, and practices regarding CalFresh participation in university students," Nutrients, vol. 15, no. 1, Art. no. 192, 2023, doi: 10.3390/nu15010192.
 
-[7] California Department of Social Services, "All County Letter 17-05: CalFresh student eligibility," Sacramento, CA, USA, 2017. [Online]. Available: https://www.humboldt.edu/sites/default/files/educational-opportunity-program/2024-07/17-05.pdf
+<a id="ref-7"></a>[7] California Department of Social Services, "All County Letter 17-05: CalFresh student eligibility," Sacramento, CA, USA, 2017. [Online]. Available: https://www.humboldt.edu/sites/default/files/educational-opportunity-program/2024-07/17-05.pdf
 
-[8] P. E. Villegas, C. McGrath, A. Enriquez-Johnson, R. Hudgens, N. Flores, and R. Felix, "Food insecurity stigma, neoliberalization, and college students in California's Inland Empire," Food, Culture & Society, vol. 27, no. 3, pp. 696–713, 2024, doi: 10.1080/15528014.2022.2130658.
+<a id="ref-8"></a>[8] P. E. Villegas, C. McGrath, A. Enriquez-Johnson, R. Hudgens, N. Flores, and R. Felix, "Food insecurity stigma, neoliberalization, and college students in California's Inland Empire," Food, Culture & Society, vol. 27, no. 3, pp. 696–713, 2024, doi: 10.1080/15528014.2022.2130658.
 
-[9] E. E. Esaryk, E. E. Jiménez Arriaga, S. Kalaydjian, and S. M. Martinez, "Campus food pantry use addresses a gap among California public university students," J. Nutr. Educ. Behav., vol. 53, no. 11, pp. 921–930, 2021, doi: 10.1016/j.jneb.2021.06.005.
+<a id="ref-9"></a>[9] E. E. Esaryk, E. E. Jiménez Arriaga, S. Kalaydjian, and S. M. Martinez, "Campus food pantry use addresses a gap among California public university students," J. Nutr. Educ. Behav., vol. 53, no. 11, pp. 921–930, 2021, doi: 10.1016/j.jneb.2021.06.005.
 
-[10] S. Evans, "Nearly half of undergraduates report food insecurity, new interim A.S. Food Bank coordinator plans to expand services," Daily Nexus, Oct. 18, 2024. [Online]. Available: https://dailynexus.com/2024-10-18/nearly-half-of-undergraduates-report-food-insecurity-new-a-s-food-bank-coordinator-plans-to-expand-services/
+<a id="ref-10"></a>[10] S. Evans, "Nearly half of undergraduates report food insecurity, new interim A.S. Food Bank coordinator plans to expand services," Daily Nexus, Oct. 18, 2024. [Online]. Available: https://dailynexus.com/2024-10-18/nearly-half-of-undergraduates-report-food-insecurity-new-a-s-food-bank-coordinator-plans-to-expand-services/
 
-[11] K. Yuan, O. Davis, and J. Yang, "Food insecurity amongst UCSB students," Daily Nexus, Feb. 23, 2024. [Online]. Available: https://dailynexus.com/?p=114623
+<a id="ref-11"></a>[11] K. Yuan, O. Davis, and J. Yang, "Food insecurity amongst UCSB students," Daily Nexus, Feb. 23, 2024. [Online]. Available: https://dailynexus.com/?p=114623
 
-[12] UC Regents, "UC Irvine's Basic Needs Center to Launch Mobile Food Pantry on Nov. 15," UC Irvine News, University of California, Irvine, Nov. 13, 2023. Accessed: Nov. 22, 2026. [Online]. Available: https://news.uci.edu/2023/11/13/uc-irvines-basic-needs-center-to-launch-mobile-food-pantry-on-nov-15/
+<a id="ref-12"></a>[12] UC Regents, "UC Irvine's Basic Needs Center to Launch Mobile Food Pantry on Nov. 15," UC Irvine News, University of California, Irvine, Nov. 13, 2023. Accessed: Nov. 22, 2026. [Online]. Available: https://news.uci.edu/2023/11/13/uc-irvines-basic-needs-center-to-launch-mobile-food-pantry-on-nov-15/
 
-[13] "Partners | Market Match," Marketmatch.org, 2026. https://marketmatch.org/our-partners/ (accessed Nov. 22, 2026).
+<a id="ref-13"></a>[13] "Partners | Market Match," Marketmatch.org, 2026. https://marketmatch.org/our-partners/ (accessed Nov. 22, 2026).
 
-[14] Santa Barbara Certified Farmers Market Association, "Programs," Santa Barbara Certified Farmers Market Association. https://www.sbfarmersmarket.org/general-7.
+<a id="ref-14"></a>[14] Santa Barbara Certified Farmers Market Association, "Programs," Santa Barbara Certified Farmers Market Association. https://www.sbfarmersmarket.org/general-7.
 
-[15] M. Hsu, "Teaching Kitchen Course Helps Improve College Students' Food Security," UC Agriculture and Natural Resources. Accessed: Nov. 22, 2026. [Online]. Available: https://ucanr.edu/blog/food-blog/article/teaching-kitchen-course-helps-improve-college-students-food-security
+<a id="ref-15"></a>[15] M. Hsu, "Teaching Kitchen Course Helps Improve College Students' Food Security," UC Agriculture and Natural Resources. Accessed: Nov. 22, 2026. [Online]. Available: https://ucanr.edu/blog/food-blog/article/teaching-kitchen-course-helps-improve-college-students-food-security
 
 </div>
