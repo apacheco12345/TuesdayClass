@@ -141,6 +141,11 @@
   border-bottom: 1px solid var(--paper-rule);
 }
 
+.sidebar-sublink .menu__link {
+  font-size: 0.8rem; 
+  padding-left:1.5rem;
+  opacity: 0.85;
+}
 /* Allows you to print the document as a nice PDF */
 
 @media print {
