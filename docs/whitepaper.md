@@ -85,16 +85,6 @@ When comparing awareness to students actually using them, all 12 of the particip
 
 In terms of barriers, we asked our respondents if there has been any reason they have avoided getting assistance or using the resources given to them. About 52% said that the timing or location difficulties made it harder to use food assistance. The second most common answer was being unsure about eligibility which accounted for about 43% of respondents.
 
-<iframe title="What Prevents Students from Accessing Food Assistance" 
-  aria-label="Stacked Bars" id="datawrapper-chart-tUMac" 
-  src="https://datawrapper.dwcdn.net/tUMac/1/" 
-  scrolling="no" 
-  frameborder="0" 
-  style="border: none;" 
-  width="586" height="204" 
-  data-external="1"
-  ></iframe>
-
 From the results we have gathered from our survey as well as the research we have gathered on this topic, we have developed a solution that would increase student use of food resources on and off campus and help bridge the gap between awareness and utilization. When asked what proposed solution people would be most interested in, most people thought having more pop up events near the Arbor on campus would be most useful. Knowing this we have developed a more detailed plan of how we would implement more pop-up events around including free food handouts, farmer's market style events, and cooking demonstrations. More details on the solutions are mentioned under the "Solutions" section later on.
 
 ### 3.2 Limitations {#limitations}
@@ -106,7 +96,19 @@ Another limitation is that our survey relied on students reporting their own exp
 Another limitation is that our proposed solution has not been fully tested yet. So we cannot be certain how effective it would be to increase the use of food resources. Although our research and survey results suggest that pop-up events could make food resources more accessible we can't be certain how effective it would be until it is actually implemented. Some factors like scheduling, location, and student participation could affect their success. Testing these events and gathering feedback in the future would help us determine how well this solution can address the barriers students experience in food.
 
 ## 4. Our Solution {#our-solution}
-<iframe title="Which Proposed Solutions Students Picked" aria-label="Grouped Bars" id="datawrapper-chart-KWgU9" src="https://datawrapper.dwcdn.net/KWgU9/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="415" data-external="1"></iframe>
+<iframe
+  title="Which Proposed Solutions Students Picked"
+  aria-label="Grouped Bars"
+  id="datawrapper-chart-KWgU9"
+  src="https://datawrapper.dwcdn.net/KWgU9/2/"
+  scrolling="no"
+  frameBorder="0"
+  style={{ border: 'none' }}
+  width="600"
+  height="415"
+  data-external="1"
+/>
+
 Our main recommended solution is to expand existing food resource outreach through more frequent pop-up events on campus and in Isla Vista. This recommendation is also informed and the top pick by our survey results [Figure 6]. Although UCSB already provides several food assistance programs, including the A.S. Food Bank, campus food pantry, and CalFresh assistance through Thrive and Basic Needs, many students still face difficulties accessing or utilizing these resources. In order to address the gap between awareness and utilization, we propose increasing the frequency of pop-up events while introducing additional outreach opportunities in high-traffic areas on and off campus. These events include free food handouts, informational tabling, farmers market-style activities, and educational opportunities about available food assistance programs. Each part of our solution is meant to help specific barriers we found in our survey, timing and locations, confusion about how to qualify, and the stigma of using these resources.
 
 ### 4.1 Pop-up Events {#pop-up-events}
