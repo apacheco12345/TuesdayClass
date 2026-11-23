@@ -1,7 +1,7 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Vonnegut Research Series',
+  title: 'Food Insecurity at UCSB',
   tagline: 'Papers on issues of interest to Isla Vista residents',
   favicon: 'img/palm.svg',
 
@@ -47,7 +47,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Vonnegut Research Series',
+        title: 'Food Insecurity at UCSB',
         logo: {
           alt: 'Series mark',
           src: 'img/palm.svg',
