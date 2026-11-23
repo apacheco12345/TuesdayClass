@@ -60,7 +60,7 @@ const config = {
             label: 'Table of Contents',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/apacheco12345/TuesdayClass',
             label: 'GitHub',
             position: 'right',
           },
