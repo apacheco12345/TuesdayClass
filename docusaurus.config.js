@@ -3,7 +3,7 @@
 const config = {
   title: 'Food Insecurity at UCSB',
   tagline: 'Papers on issues of interest to Isla Vista residents',
-  favicon: 'img/palm.svg',
+  favicon: 'img/anh-nguyen-kcA-c3f_3FE-unsplash.jpg',
 
   future: {},
 
@@ -41,7 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/palm.svg',
+      image: 'img/anh-nguyen-kcA-c3f_3FE-unsplash.jpg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
@@ -50,7 +50,7 @@ const config = {
         title: 'Food Insecurity at UCSB',
         logo: {
           alt: 'Series mark',
-          src: 'img/palm.svg',
+          src: 'img/anh-nguyen-kcA-c3f_3FE-unsplash.jpg',
         },
         items: [
           {
