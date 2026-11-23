@@ -92,10 +92,10 @@ In terms of barriers, we asked our respondents if there has been any reason they
   frameborder="0"
     style={{ border: 'none' }}
   width="100%"
-  height="415"
+  height="204"
   data-external="1"
 />
-  
+
 From the results we have gathered from our survey as well as the research we have gathered on this topic, we have developed a solution that would increase student use of food resources on and off campus and help bridge the gap between awareness and utilization. When asked what proposed solution people would be most interested in, most people thought having more pop up events near the Arbor on campus would be most useful. Knowing this we have developed a more detailed plan of how we would implement more pop-up events around including free food handouts, farmer's market style events, and cooking demonstrations. More details on the solutions are mentioned under the "Solutions" section later on.
 
 ### 3.2 Limitations {#limitations}
