@@ -30,10 +30,13 @@ const sidebars = {
     
     {type: 'link', label: '1. Introduction', href: `${PAPER}#introduction`},
     
-    {type: 'link', label: '2. The Problem', href: `${PAPER}#the-problem`},
+    {
+      type: 'category', label: '2. The Problem', link: { type: 'link', href: `${PAPER}#the-problem`}, collapsed: true, items:[
     {type: 'link', label: '2.1 History of the Issue', href: `${PAPER}#history-of-the-issue`, className:'sidebar-sublink'},
     {type: 'link', label: '2.2 Current State of the Research', href: `${PAPER}#current-state-of-the-research`, className:'sidebar-sublink'},
     {type: 'link', label: '2.3 What this looks like at UCSB', href: `${PAPER}#what-this-looks-like-at-ucsb`, className:'sidebar-sublink'},
+    ],
+    }
     
     {type: 'link', label: '3. Our Study', href: `${PAPER}#our-study`},
     {type: 'link', label: '3.1 Results', href: `${PAPER}#results`, className:'sidebar-sublink'},
