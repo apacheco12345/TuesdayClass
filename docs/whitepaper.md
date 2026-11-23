@@ -84,7 +84,18 @@ In terms of awareness of resources, almost everyone, 95%, were familiar with Cal
 When comparing awareness to students actually using them, all 12 of the participants who displayed at least one sign of food insecurity had heard of the A.S. food bank but 75% of them said that they had never or rarely used it this year. None of them had used the Basic Needs Advising Center, the Miramar Pantry or meal-swipe donations. The one exception was CalFresh as about 83% of the 12 students had used their CalFresh benefits often or very often. We believe this could be because CalFresh is used through EBT cards which can be used very easily at a normal grocery store and fits easily into a student's regular routine while the food pantries are only open on certain dates and times in certain places.
 
 In terms of barriers, we asked our respondents if there has been any reason they have avoided getting assistance or using the resources given to them. About 52% said that the timing or location difficulties made it harder to use food assistance. The second most common answer was being unsure about eligibility which accounted for about 43% of respondents.
-
+<iframe title="What Prevents Students from Accessing Food Assistance" 
+  aria-label="Stacked Bars"
+  id="datawrapper-chart-tUMac"
+  src="https://datawrapper.dwcdn.net/tUMac/1/"
+  scrolling="no"
+  frameborder="0"
+    style={{ border: 'none' }}
+  width="100%"
+  height="415"
+  data-external="1"
+/>
+  
 From the results we have gathered from our survey as well as the research we have gathered on this topic, we have developed a solution that would increase student use of food resources on and off campus and help bridge the gap between awareness and utilization. When asked what proposed solution people would be most interested in, most people thought having more pop up events near the Arbor on campus would be most useful. Knowing this we have developed a more detailed plan of how we would implement more pop-up events around including free food handouts, farmer's market style events, and cooking demonstrations. More details on the solutions are mentioned under the "Solutions" section later on.
 
 ### 3.2 Limitations {#limitations}
@@ -104,7 +115,7 @@ Another limitation is that our proposed solution has not been fully tested yet. 
   scrolling="no"
   frameBorder="0"
   style={{ border: 'none' }}
-  width="600"
+  width="100%"
   height="415"
   data-external="1"
 />
