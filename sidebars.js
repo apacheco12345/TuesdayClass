@@ -2,7 +2,7 @@
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const PAPER = '/paper/zombie';
+const PAPER = '/paper/food-insecurity';
 
 /**
  * Manually built so the left rail doubles as the paper's own table of
@@ -17,8 +17,8 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'zombie',
-      label: 'Defending our Home',
+      id: 'food-insecurity',
+      label: 'Food Insecurity at UCSB',
       className: 'sidebar-paper-title',
     },
     {
@@ -26,26 +26,16 @@ const sidebars = {
       value: '<div class="sidebar-contents-label">Contents</div>',
       defaultStyle: true,
     },
-    {type: 'link', label: '1. Kilgore Trout', href: `${PAPER}#trout`},
+    {type: 'link', label: '1. Introduction', href: `${PAPER}#introduction`},
+    {type: 'link', label: '2. The Problem', href: `${PAPER}#the-problem`},
+    {type: 'link', label: '3. Our Study', href: `${PAPER}#our-study`},
+    {type: 'link', label: '4. Our Solution', href: `${PAPER}#our-solution`},
+    {type: 'link', label: '5. How It Would Work', href: `${PAPER}#how-it-would-work`},
+    {type: 'link', label: '6. Conclusion', href: `${PAPER}#conclusion`},
     {
       type: 'link',
-      label: '2. Two Quotes',
-      href: `${PAPER}#twoquotes`,
-    },
-    {type: 'link', label: '3. A Four-Step Plan', href: `${PAPER}#foursteps`},
-    {type: 'link', label: '4. Cost Analysis', href: `${PAPER}#costs`},
-    {type: 'link', label: '5. Survey', href: `${PAPER}#survey`},
-    {type: 'link', label: '6. Call to Action', href: `${PAPER}#calltoaction`},
-    {
-      type: 'link',
-      label: 'Appendix A',
-      href: `${PAPER}#appendix-a`,
-      className: 'sidebar-contents-minor',
-    },
-    {
-      type: 'link',
-      label: 'References',
-      href: `${PAPER}#references`,
+      label: 'Appendix',
+      href: `${PAPER}#appendix`,
       className: 'sidebar-contents-minor',
     },
   ],
