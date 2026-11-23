@@ -15,7 +15,7 @@ description: "A white paper on closing the gap between awareness and use of food
 <span>**Jericho Sabangan**<br/>UC Santa Barbara</span>
 </div>
 
-## Introduction {#introduction}
+## 1. Introduction {#introduction}
 
 Being a college student is one of the first times young adults have to live on their own and provide for themselves all while being a full-time student. This can cause a lot of stress as a lot of students don't have time to uphold a job and therefore rely on financial aid or help from family to get them through school. In addition, the cost of living is expensive in Isla Vista and can cause food budgets to be cut when money is already being spent towards rent. These factors can contribute to food insecurity issues across college campuses throughout California.
 
@@ -27,9 +27,9 @@ The goal of this project is to find solutions to help advertise these resources 
 
 From these results, it was determined that the best solution would be to increase pop-up events on and off campus which could include tabling with free food handouts, farmer's market style events, and more. The goal is that with the implementation of more pop up events, there will be higher rates of users and lower rates of food insecurity.
 
-## The Problem: Food Insecurity at UCSB {#the-problem}
+## 2. The Problem: Food Insecurity at UCSB {#the-problem}
 
-### History of the Issue {#history-of-the-issue}
+### 2.1 History of the Issue {#history-of-the-issue}
 
 Researchers have studied food insecurity in U.S households for a long time, but they only started looking closely at college students in the last fifteen years or so. As the financial challenges of attending college became more recognized, universities began developing food assistance programs to support students who struggled to afford consistent access to food.
 
@@ -37,7 +37,7 @@ In California, the University of California (UC) schools took the lead in addres
 
 However, when the COVID-19 pandemic hit, it highlighted the ongoing issues as more students faced financial instability and increased food insecurity. Despite these efforts, food insecurity still remains a concern across all college campuses including UCSB. This raises the concern about if existing resources are reaching the students who need them the most, highlighting the importance of not only providing food assistance but also ensuring students are aware of and able to access the resources available to them.
 
-### Current State of the Research {#current-state-of-the-research}
+### 2.2 Current State of the Research {#current-state-of-the-research}
 
 Today, most research agrees on three things.
 
@@ -55,13 +55,13 @@ Researchers point to two main reasons for this gap:
 
 The good news is that outreach seems to work. A survey of 1,513 food pantry users across the UC campuses found that most of them heard about the food pantry from a friend, but the students who heard about it from the Pantry or Basic Needs staff ended up using it more often [9]. This makes sense, since staff can explain how these resources work and answer questions right away. More advertising and more chances for students to talk to staff could help increase how many students use the resources.
 
-### What this looks like at UCSB {#what-this-looks-like-at-ucsb}
+### 2.3 What this looks like at UCSB {#what-this-looks-like-at-ucsb}
 
 Since the implementation of the A.S. Campus food bank at UCSB in 2011, rates of food insecurity have still remained high. According to an article from the Daily Nexus, food insecurity among college students rose quickly after the Covid-19 pandemic, and the A.S. Food Bank saw a big increase in clients after COVID [10]. In the 2022 UC Undergraduate Experience Survey, 24% of UCSB students had very low food security and another 19% had low food security, so 43% total [11]. A.S. Basic Needs did their own survey in 2023 and got the exact same number, 43% of undergrads [10], which means almost half of the students on our campus are dealing with this.
 
 In the 2024 Daily Nexus article, Crystal Bach, the leader of the A.S. food bank at the time, mentions increasing funding and expanding their resources to groups who aren't on campus through a mobile food pantry that goes to Isla Vista and other parts of campus [10]. We thought this was a realistic and feasible idea that could increase the number of students using the Food Bank. Since her plan was about extending outreach, we took parts of it and worked them into our own proposed solution.
 
-## Our Study {#our-study}
+## 3. Our Study {#our-study}
 
 For our own project, we conducted our own survey with UCSB undergraduate students about food insecurity through Google Forms and sent it out through our own social groups including clubs, roommates, group chats, and social media. We asked them a range of questions about their current food habits including where they get most of their meals from and whether they have experienced any sort of limitation or feeling that they couldn't comfortably afford groceries. We asked about what food resources they have heard of, where they have heard of them, how often they used any of them and what they knew about CalFresh eligibility. Then we asked if it has been difficult to find information on those resources, what made it difficult to find those resources, and what proposed solutions they thought would be the most useful towards their own experience. At the end of our survey, we asked for some general demographic information to see if that would correlate with any of our results.
 
@@ -71,7 +71,7 @@ We got a total of 37 survey responses. Most of the people who participated in ou
 
 To analyze the responses, we pulled the responses from the Google Forms data into Google Sheets. Since we allowed multiple selection questions, we also used Google Sheets formulas to count and calculate the responses, then summarized the data using pivot tables. This lets us break down results by questions and cross-reference various data, such as comparing how often students who have indications of food insecurity used each resource. Then the information was cleaned and constructed into charts to display using Datawrapper.
 
-### Results {#results}
+### 3.1 Results {#results}
 
 From these responses, we found the following results:
 
@@ -87,7 +87,7 @@ In terms of barriers, we asked our respondents if there has been any reason they
 
 From the results we have gathered from our survey as well as the research we have gathered on this topic, we have developed a solution that would increase student use of food resources on and off campus and help bridge the gap between awareness and utilization. When asked what proposed solution people would be most interested in, most people thought having more pop up events near the Arbor on campus would be most useful. Knowing this we have developed a more detailed plan of how we would implement more pop-up events around including free food handouts, farmer's market style events, and cooking demonstrations. More details on the solutions are mentioned under the "Solutions" section later on.
 
-### Limitations {#limitations}
+### 3.2 Limitations {#limitations}
 
 Although our survey did provide useful information, there were a few limitations to our research. Our survey had 37 responses, but the results still matched up with similar surveys done by other people. However, since we only received around 37 responses, our findings may not represent the experiences of every UCSB student. Since we didn't really distribute the survey into public spaces (for example: posting the surveys qr codes around the campus) we may have missed out on a more broader range of responses that are outside our social circles or those with different experiences. Most of our responses were from friends and students in organizations we were involved in which could have added a bias towards the survey and affected the variety of perspectives we received.
 
@@ -95,11 +95,11 @@ Another limitation is that our survey relied on students reporting their own exp
 
 Another limitation is that our proposed solution has not been fully tested yet. So we cannot be certain how effective it would be to increase the use of food resources. Although our research and survey results suggest that pop-up events could make food resources more accessible we can't be certain how effective it would be until it is actually implemented. Some factors like scheduling, location, and student participation could affect their success. Testing these events and gathering feedback in the future would help us determine how well this solution can address the barriers students experience in food.
 
-## Our Solution {#our-solution}
+## 4. Our Solution {#our-solution}
 
 Our main recommended solution is to expand existing food resource outreach through more frequent pop-up events on campus and in Isla Vista. This recommendation is also informed and the top pick by our survey results [Figure 6]. Although UCSB already provides several food assistance programs, including the A.S. Food Bank, campus food pantry, and CalFresh assistance through Thrive and Basic Needs, many students still face difficulties accessing or utilizing these resources. In order to address the gap between awareness and utilization, we propose increasing the frequency of pop-up events while introducing additional outreach opportunities in high-traffic areas on and off campus. These events include free food handouts, informational tabling, farmers market-style activities, and educational opportunities about available food assistance programs. Each part of our solution is meant to help specific barriers we found in our survey, timing and locations, confusion about how to qualify, and the stigma of using these resources.
 
-### Pop-up Events {#pop-up-events}
+### 4.1 Pop-up Events {#pop-up-events}
 
 Pop-up events directly address the time and location barriers many students face. Instead of asking students to go out of their way to visit a pantry or office, these events would bring food and information directly to the locations students already frequent. This matters most for students who are struggling with food but not using the resources, which based on 75% of our responses. Many of them named timing and location as the reason, and a table they walk past between classes takes away any extra trips. Similar approaches have been implemented at other California universities. University of California, Irvine (UCI), Basic Needs Center operates both a traditional food pantry and mobile food pantry that brings groceries closer to student residential communities. UCI rotates its mobile food pantry that brings groceries closer to students residentials [12]. This approach allows students to access food assistance without having to travel to the main pantry.
 
@@ -107,7 +107,7 @@ Our approach would be to establish regular tabling events near the Arbor and oth
 
 Furthermore, representatives from the Basic Needs Office could attend these events to answer questions and explain how students can qualify for and apply for CalFresh. This helps students who aren't sure if they qualify, since the CalFresh rules for college students are confusing and staff can explain them on the spot and promote the online pre-screen form that Basic Needs has. It can also help students who might feel embarrassed about needing help, since grabbing a snack at a busy table is less intimidating than walking into an office. Overall, these events allow students to receive food assistance and information in convenient locations rather than having to independently search for each resource.
 
-### Farmers Market-Style Events in Isla Vista {#farmers-market-events}
+### 4.2 Farmers Market-Style Events in Isla Vista {#farmers-market-events}
 
 In addition to campus tabling, farmers market-style events could be introduced to improve food accessibility for students living in Isla Vista. Since a large portion of UCSB's undergraduate population lives in Isla Vista, also holding events within the community could make free food resources available to students who face any time and location barriers.
 
@@ -115,35 +115,35 @@ UCSB can collaborate with local vendors and the Goleta Farmers Market at Camino 
 
 UCSB could invite vendors to organize monthly farmers market-style events in Isla Vista. These events could also include an informational table where students can learn how to use EBT and access Market Match. This would provide students with more opportunities to access fresh produce while introducing them to food assistance programs that they may not be familiar with.
 
-### Cooking Demonstrations {#cooking-demonstrations}
+### 4.3 Cooking Demonstrations {#cooking-demonstrations}
 
 Beyond just providing free food and information for pop-up events, UCSB could introduce additional events that encourage students to make better use of existing food resources.
 
 Cooking demonstrations could be organized in collaboration with dining hall chefs or other campus food services. These demonstrations could focus on preparing simple, affordable meals using ingredients that students can access through food assistance programs. This helps students who worry about their groceries running out, since they can learn how to make the most of what they will be able to get from the food bank or pantries. At UC Berkeley, students who took a nutrition class with a hands-on teaching kitchen had less food insecurity and less stress afterwards [15]. Cooking lessons could be held at the campus pop-up events as well as near the food bank and food pantry to make it easy for students to pick up groceries and learn new recipes in one place.
 
-## How it would work {#how-it-would-work}
+## 5. How it would work {#how-it-would-work}
 
-### Partners {#partners}
+### 5.1 Partners {#partners}
 
 Our solution would be realistic to set up because it uses programs and people UCSB already has. The A.S. Food Bank could provide the food for tabling and advertise the events to students who are already registered with them. The Basic Needs Advising Center could send staff to answer CalFresh questions. UCSB Dining could provide chefs and kitchen space for the cooking demos. The Santa Barbara farmer's markets and local vendors could help with Isla Vista events. Student organizations could also help run events and spread the word, since our survey showed that friends are the main way students hear about resources.
 
-### Timeline {#timeline}
+### 5.2 Timeline {#timeline}
 
 We suggest starting out small and building up over the 2027 school year. In winter 2027, weekly tabling would start at the Arbor on the same day each week, the QR code resource page would get made, and someone would start keeping track of attendance. In Spring 2027, a monthly farmer's market style event would be added in Isla Vista, along with a couple of cooking demos and more tabling near the library. At the end of Spring 2027, we would send our survey out again to more students and compare Food Bank sign ups and CalFresh applications to the year before to see which events are worth keeping.
 
-### Advertising the Events {#advertising-the-events}
+### 5.3 Advertising the Events {#advertising-the-events}
 
 Our Survey also gives us an idea of how to advertise these events. Students said they would like to hear about food resources through UCSB emails or websites and social media, so events should be posted on the A.S. and Basic Needs Instagram accounts and sent out through school's emails. Having a set schedule, like "Free Fruit Tuesdays at the Arbor," would make it easier for students to remember and plan around. And since most students hear about resources from their friends, the events should encourage people to bring a friend.
 
-### Measuring Success {#measuring-success}
+### 5.4 Measuring Success {#measuring-success}
 
 To see if the events are actually working, UCSB could keep track of how many students come to each event, how many people scan the QR code, and whether new Food Bank sign-ups and CalFresh applications go up compared to the year before. A follow up survey could also check if more at risk students are using the resources. For the first year, the goal can be to get the number of at risk students who rarely or never use the A.S. Food Bank from 75% down to under 50%.
 
-### Cost {#cost}
+### 5.5 Cost {#cost}
 
 Since this plan mostly uses staff and food UCSB already has, the main new costs would be in advertising. Things like printing flyers, event supplies, and extra food for the tables. The A.S. Food Bank's budget for 2024-2025 was $697,631, and 85% of it comes from student fees [10], so a small part of that budget or a small grant could pay for a trial run. The UC Office of the President has also paid for similar projects at other campuses, like UC Irvine's mobile pantry [12].
 
-## Conclusion {#conclusion}
+## 6. Conclusion {#conclusion}
 
 UCSB already has the A.S. Food Bank, campus pantries, and CalFresh assistance, but many students still do not utilize these resources. Our proposed solution focuses on bringing these resources directly to students through regular pop-up tabling, farmers market-style events, and cooking demonstrations. By offering different types of events throughout various areas on and off campus, UCSB could reach a wider range of students, increase awareness of available assistance, and provide greater access to fresh food.
 
