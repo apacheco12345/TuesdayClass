@@ -1,5 +1,5 @@
 ---
-id: zombie
+id: food-insecurity
 title: "Food Insecurity at UCSB"
 hide_title: true
 hide_table_of_contents: true
