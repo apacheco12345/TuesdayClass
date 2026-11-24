@@ -153,7 +153,15 @@ Cooking demonstrations could be organized in collaboration with dining hall chef
 
 ### 5.1 Partners {#partners}
 
-Our solution would be realistic to set up because it uses programs and people UCSB already has. The A.S. Food Bank could provide the food for tabling and advertise the events to students who are already registered with them. The Basic Needs Advising Center could send staff to answer CalFresh questions. UCSB Dining could provide chefs and kitchen space for the cooking demos. The Santa Barbara farmer's markets and local vendors could help with Isla Vista events. Student organizations could also help run events and spread the word, since our survey showed that friends are the main way students hear about resources.
+Our solution would be realistic to set up because it uses programs and people UCSB already has.
+
+| Partner | What they could do |
+| :---- | :---- |
+| **A.S. Food Bank** | Provide the food for tabling and advertise the events to students who are already registered with them |
+| **Basic Needs Advising Center** | Send staff to answer CalFresh questions |
+| **UCSB Dining** | Provide chefs and kitchen space for the cooking demos |
+| **Santa Barbara farmer's markets and local vendors** | Help with Isla Vista events |
+| **Student organizations** | Help run events and spread the word, since our survey showed that friends are the main way students hear about resources |
 
 ### 5.2 Timeline {#timeline}
 
@@ -197,15 +205,40 @@ We suggest starting out small and building up over the 2027 school year.
 
 ### 5.3 Advertising the Events {#advertising-the-events}
 
-Our Survey also gives us an idea of how to advertise these events. Students said they would like to hear about food resources through UCSB emails or websites and social media, so events should be posted on the A.S. and Basic Needs Instagram accounts and sent out through school's emails. Having a set schedule, like "Free Fruit Tuesdays at the Arbor," would make it easier for students to remember and plan around. And since most students hear about resources from their friends, the events should encourage people to bring a friend.
+Our Survey also gives us an idea of how to advertise these events. Students said they would like to hear about food resources through UCSB emails or websites and social media, so events should be posted on the A.S. and Basic Needs Instagram accounts and sent out through school's emails. And since most students hear about resources from their friends, the events should encourage people to bring a friend.
+
+:::tip[Keep a set schedule]
+Having a set schedule, like "Free Fruit Tuesdays at the Arbor," would make it easier for students to remember and plan around.
+:::
 
 ### 5.4 Measuring Success {#measuring-success}
 
-To see if the events are actually working, UCSB could keep track of how many students come to each event, how many people scan the QR code, and whether new Food Bank sign-ups and CalFresh applications go up compared to the year before. A follow up survey could also check if more at risk students are using the resources. For the first year, the goal can be to get the number of at risk students who rarely or never use the A.S. Food Bank from 75% down to under 50%.
+To see if the events are actually working, UCSB could keep track of:
+
+- How many students come to each event
+- How many people scan the QR code
+- Whether new Food Bank sign-ups and CalFresh applications go up compared to the year before
+
+A follow up survey could also check if more at risk students are using the resources.
+
+:::note[Our goal for the first year]
+Get the number of at risk students who rarely or never use the A.S. Food Bank from **75%** down to **under 50%**.
+:::
 
 ### 5.5 Cost {#cost}
 
-Since this plan mostly uses staff and food UCSB already has, the main new costs would be in advertising. Things like printing flyers, event supplies, and extra food for the tables. The A.S. Food Bank's budget for 2024-2025 was $697,631, and 85% of it comes from student fees [[10]](#ref-10), so a small part of that budget or a small grant could pay for a trial run. The UC Office of the President has also paid for similar projects at other campuses, like UC Irvine's mobile pantry [[12]](#ref-12).
+Since this plan mostly uses staff and food UCSB already has, the main new costs would be in advertising. Things like:
+
+- Printing flyers
+- Event supplies
+- Extra food for the tables
+
+A small part of the A.S. Food Bank's budget or a small grant could pay for a trial run.
+
+| Where the money could come from | Why it works |
+| :---- | :---- |
+| **A.S. Food Bank budget** | It was $697,631 for 2024-2025, and 85% of it comes from student fees [[10]](#ref-10) |
+| **A small grant** | The UC Office of the President has paid for similar projects at other campuses, like UC Irvine's mobile pantry [[12]](#ref-12) |
 
 ## 6. Conclusion {#conclusion}
 
