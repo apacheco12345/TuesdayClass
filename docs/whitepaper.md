@@ -157,7 +157,43 @@ Our solution would be realistic to set up because it uses programs and people UC
 
 ### 5.2 Timeline {#timeline}
 
-We suggest starting out small and building up over the 2027 school year. In winter 2027, weekly tabling would start at the Arbor on the same day each week, the QR code resource page would get made, and someone would start keeping track of attendance. In Spring 2027, a monthly farmer's market style event would be added in Isla Vista, along with a couple of cooking demos and more tabling near the library. At the end of Spring 2027, we would send our survey out again to more students and compare Food Bank sign ups and CalFresh applications to the year before to see which events are worth keeping.
+We suggest starting out small and building up over the 2027 school year.
+
+<div className="timeline">
+  <div className="timeline-item">
+    <div className="timeline-dot">1</div>
+    <div className="timeline-card">
+      <div className="timeline-head"><strong>Winter 2027</strong><span>Start small</span></div>
+      <ul>
+        <li>Weekly tabling starts at the Arbor on the same day each week</li>
+        <li>The QR code resource page gets made</li>
+        <li>Someone starts keeping track of attendance</li>
+      </ul>
+    </div>
+  </div>
+  <div className="timeline-item">
+    <div className="timeline-dot">2</div>
+    <div className="timeline-card">
+      <div className="timeline-head"><strong>Spring 2027</strong><span>Build up</span></div>
+      <ul>
+        <li>A monthly farmer's market style event is added in Isla Vista</li>
+        <li>A couple of cooking demos</li>
+        <li>More tabling near the library</li>
+      </ul>
+    </div>
+  </div>
+  <div className="timeline-item timeline-item--review">
+    <div className="timeline-dot">3</div>
+    <div className="timeline-card">
+      <div className="timeline-head"><strong>End of Spring 2027</strong><span>Check what worked</span></div>
+      <ul>
+        <li>Send our survey out again to more students</li>
+        <li>Compare Food Bank sign ups and CalFresh applications to the year before</li>
+        <li>Decide which events are worth keeping</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ### 5.3 Advertising the Events {#advertising-the-events}
 
